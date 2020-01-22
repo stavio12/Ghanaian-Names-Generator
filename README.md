@@ -1,4 +1,5 @@
 # Ghanaian-Names-Generator
+# 80% complete
 Ghanaian Names Generator
 
 Learning Javascript-Ajax-async-fetch api 
