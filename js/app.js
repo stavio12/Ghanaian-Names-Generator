@@ -1,55 +1,40 @@
 document.querySelector('#generateGhanaian-names').addEventListener('submit', generator);
 
 
+
+
+
 function generator(e){
     e.preventDefault();
-const day = document.querySelector('#days').value,
-  genre = document.querySelector('#genre').value,
-  tribe = document.querySelector('#tribe').value,
-  amount = document.querySelector('#quantity').value;
-
+const day = document.getElementById('days').value;
+const genre = document.querySelector('#genre').value;
+const  tribe = document.querySelector('#tribe').value;
   let url = 'https://testapi.io/api/hello/name?';
 
-  if (day !== ''){
-
-    url += `Day=${day}&`
-}
-
-if (tribe !== ''){
-
-    url += `Tribe=${tribe}&`
-}
-
-if (genre !== ''){
-
-    url += `Gender=${genre}&`
-}
-
-
-if (amount !== ''){
-
-    url += `amount=${amount}&`
-}
 
   fetch(url)
  .then(function(response){
-     return response.json();
+    return response.json();
  })
  .then(function(names){
-
     let html = ` <h2> Generated Names </h2>`
 
     html +='<ul class="list">'
 
     names.forEach( function (name){ 
-       html += `
-       <li>${name.Name } <li>` 
+        if(name.tribe === `${tribe}` && name.gender === `${genre}` && name.day === `${day}`){   
+            html += `
+            <li>${name.name} <li>` 
+        }             
     })
+    html += '</ul>'
 
-  html += '</ul>'
+    document.querySelector('#result').innerHTML = html
+ 
 
-  document.querySelector('#result').innerHTML = html
-   console.log(names)
- })
+})
+ .catch(function(error){
+})
+}
 
-} 
+

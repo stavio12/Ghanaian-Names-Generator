@@ -17,6 +17,7 @@ form {
     padding: 50px;
 }
 
+
 .list {
     list-style: none;
     width: 80%;
@@ -24,7 +25,9 @@ form {
     margin: 0 auto;
     padding: 20px;
     border: 1px solid #56CCF2; 
-    background: rgb(219, 246, 255); 
+    background: rgb(219, 246, 255);
+
+
 }
 .list li:last-child{
     margin:0;

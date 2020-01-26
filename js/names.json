@@ -1,0 +1,492 @@
+[
+    {"_comment" :" Male Monday names"},
+
+    {
+     
+    "day":  "Monday",
+    "tribe": "Akan" ,
+    "name": "Kojo",
+    "gender": "Male"
+}
+,
+
+{
+  
+    "day":  "Monday",
+    "tribe": "Akan" ,
+    "name": "Jojo/Joojo",
+    "gender": "Male"
+},
+{
+   
+    "day":  "Monday",
+    "tribe": "Ewe" ,
+    "name": "Cudjoe/Kujoe",
+    "gender": "Male"
+},
+{
+  
+    "day":  "Monday",
+    "tribe": "Ewe" ,
+    "name": "Kodjó/Kodzo",
+    "gender": "Male"
+},
+{
+  
+    "day":  "Monday",
+    "tribe": "Akan" ,
+    "name": "Kwadwó",
+    "gender": "Male"
+}
+,
+
+{"_comment" :" Female Monday names"},
+
+{
+   
+    "day":  "Monday",
+    "tribe": "Akan" ,
+    "name": "Adjowa",
+    "gender": "Female"
+}
+,
+{
+
+    "day":  "Monday",
+    "tribe": "Akan" ,
+    "name": "Adjoa",
+    "gender": "Female"
+}
+,
+{
+   
+    "day":  "Monday",
+    "tribe": "Akan" ,
+    "name": "Adwoba",
+    "gender": "Female"
+},
+{
+  
+    "day":  "Monday",
+    "tribe": "Akan" ,
+    "name": "Ajwoba",
+    "gender": "Female"
+},
+{
+    "day":  "Monday",
+    "tribe": "Akan" ,
+    "name": "Adjua",
+    "gender": "Female"
+},
+{
+    "day":  "Monday",
+    "tribe": "Ewe" ,
+    "name": "Adwoba",
+    "gender": "Female"
+}
+,
+{
+    "day":  "Monday",
+    "tribe": "Ewe" ,
+    "name": "Adzo",
+    "gender": "Female"
+},
+
+{"_comment" :" Male Tuesday names"},
+
+{
+    "day":  "Tuesday",
+    "tribe": "Ewe" ,
+    "name": "Komlá",
+    "gender": "Male"
+}
+,
+
+{
+    "day":  "Tuesday",
+    "tribe": "Ewe" ,
+    "name": "Koblã/Kwabla",
+    "gender": "Male"
+},
+
+{
+    "day":  "Tuesday",
+    "tribe": "Ewe" ,
+    "name": "Komlan",
+    "gender": "Male"
+},
+
+{
+    "day":  "Tuesday",
+    "tribe": "Ewe" ,
+    "name": "Kabenla",
+    "gender": "Male"
+},
+{
+    "day":  "Tuesday",
+    "tribe": "Akan" ,
+    "name": "Kobina",
+    "gender": "Male"
+},
+
+{
+    "day":  "Tuesday",
+    "tribe": "Akan" ,
+    "name": "Kobi/Kobe",
+    "gender": "Male"
+},
+
+{
+    "day":  "Tuesday",
+    "tribe": "Akan" ,
+    "name": "Ebo",
+    "gender": "Male"
+},
+
+{
+    "day":  "Tuesday",
+    "tribe": "Akan" ,
+    "name": "Kobby",
+    "gender": "Male"
+}
+,
+{
+    "day":  "Tuesday",
+    "tribe": "Akan" ,
+    "name": "Kwabená",
+    "gender": "Male"
+},
+{"_comment" :" Female Tuesday names"},
+{
+    "day":  "Tuesday",
+    "tribe": "Akan" ,
+    "name": "Abrema",
+    "gender": "Female"
+},
+
+{
+    "day":  "Tuesday",
+    "tribe": "Akan" ,
+    "name": "Araba",
+    "gender": "Female"
+},
+
+{
+    "day":  "Tuesday",
+    "tribe": "Ewe" ,
+    "name": "Ablá",
+    "gender": "Female"
+}
+,
+{
+    "day":  "Tuesday",
+    "tribe": "Ewe" ,
+    "name": "Abenayo",
+    "gender": "Female"
+}
+,
+{
+    "day":  "Tuesday",
+    "tribe": "Ewe" ,
+    "name": "Ablema",
+    "gender": "Female"
+}
+,
+{
+    "day":  "Tuesday",
+    "tribe": "Akan" ,
+    "name": "Abena",
+    "gender": "Female"
+},
+
+{"_comment" :"Male Wednesday names"}, 
+{
+    "day":  "Wednesday",
+    "tribe": "Akan" ,
+    "name": "Kweku",
+    "gender": "Male"
+}
+,
+{
+    "day":  "Wednesday",
+    "tribe": "Akan" ,
+    "name": "Abeiku",
+    "gender": "Male"
+}
+,
+{
+    "day":  "Wednesday",
+    "tribe": "Ewe" ,
+    "name": "Kaku",
+    "gender": "Male"
+}
+,
+{
+    "day":  "Wednesday",
+    "tribe": "Akan" ,
+    "name": "Kwakú",
+    "gender": "Male"
+},
+{
+    "day":  "Wednesday",
+    "tribe": "Ewe" ,
+    "name": "Koku",
+    "gender": "Male"
+},
+{"_comment" :"Female Wednesday names"}, 
+
+{
+    "day":  "Wednesday",
+    "tribe": "Akan" ,
+    "name": "Akua",
+    "gender": "Female"
+}
+,
+
+{
+    "day":  "Wednesday",
+    "tribe": "Akan" ,
+    "name": "Ekua",
+    "gender": "Female"
+},
+{
+    "day":  "Wednesday",
+    "tribe": "Ewe" ,
+    "name": "Akú",
+    "gender": "Female"
+},
+{
+    "day":  "Wednesday",
+    "tribe": "Ewe" ,
+    "name": "Akuba",
+    "gender": "Female"
+},
+
+{"_comment" :"Male Thursday names"},
+{
+    "day":  "Thursday",
+    "tribe": "Akan" ,
+    "name": "Yaw",
+    "gender": "Male"
+},
+{
+    "day":  "Thursday",
+    "tribe": "Akan" ,
+    "name": "Ekow",
+    "gender": "Male"
+},
+{
+    "day":  "Thursday",
+    "tribe": "Ewe" ,
+    "name": "Yao",
+    "gender": "Male"
+},
+{
+    "day":  "Thursday",
+    "tribe": "Ewe" ,
+    "name": "Yawo/Yawu",
+    "gender": "Male"
+},
+{
+    "day":  "Thursday",
+    "tribe": "Akan" ,
+    "name": "Kwaw",
+    "gender": "Male"
+},
+
+
+{"_comment" :"Female Thursday names"},
+{
+    "day":  "Thursday",
+    "tribe": "Ewe" ,
+    "name": "Yawo",
+    "gender": "Female"
+},
+{
+    "day":  "Thursday",
+    "tribe": "Akan" ,
+    "name": "Yaa",
+    "gender": "Female"
+},
+{
+    "day":  "Thursday",
+    "tribe": "Akan" ,
+    "name": "Baaba",
+    "gender": "Female"
+},
+{
+    "day":  "Thursday",
+    "tribe": "Ewe" ,
+    "name": "Yawa",
+    "gender": "Female"
+},
+{
+    "day":  "Thursday",
+    "tribe": "Akan" ,
+    "name": "Awo",
+    "gender": "Female"
+},
+{
+    "day":  "Thursday",
+    "tribe": "Akan" ,
+    "name": "Yaba",
+    "gender": "Female"
+},
+{
+    "day":  "Thursday",
+    "tribe": "Akan" ,
+    "name": "Aaba",
+    "gender": "Female"
+},
+{"_comment" :"Male Friday names"},
+{
+    "day":  "Friday",
+    "tribe": "Akan" ,
+    "name": "Koffi/Kofi",
+    "gender": "Male"
+},
+{
+    "day":  "Friday",
+    "tribe": "Akan" ,
+    "name": "Fiifi/Fifi",
+    "gender": "Male"
+},
+{
+    "day":  "Friday",
+    "tribe": "Akan" ,
+    "name": "Yoofi/Kwofi",
+    "gender": "Male"
+},
+{"_comment" :"Female Friday names"},
+
+{
+    "day":  "Friday",
+    "tribe": "Ewe" ,
+    "name": "Afi",
+    "gender": "Female"
+},
+{
+    "day":  "Friday",
+    "tribe": "Akan" ,
+    "name": "Afua/Efua",
+    "gender": "Female"
+},
+{
+    "day":  "Friday",
+    "tribe": "Akan" ,
+    "name": "Afia/Efie",
+    "gender": "Female"
+},
+{
+    "day":  "Friday",
+    "tribe": "Ewe" ,
+    "name": "Afiba",
+    "gender": "Female"
+},
+{"_comment" :"Male Saturday names"},
+{
+    "day":  "Saturday",
+    "tribe": "Akan" ,
+    "name": "Kwame/kwami",
+    "gender": "Male"
+},
+{
+    "day":  "Saturday",
+    "tribe": "Akan" ,
+    "name": "Kwamena/Kwamina",
+    "gender": "Male"
+},
+{
+    "day":  "Saturday",
+    "tribe": "Ewe" ,
+    "name": "Komi",
+    "gender": "Male"
+},
+{"_comment" :"Female Saturday names"},
+{
+    "day":  "Saturday",
+    "tribe": "Akan" ,
+    "name": "Ama",
+    "gender": "Female"
+},
+{
+    "day":  "Saturday",
+    "tribe": "Ewe" ,
+    "name": "Ami",
+    "gender": "Female"
+},
+{"_comment" :"Male Sunday names"},
+{
+    "day":  "Sunday",
+    "tribe": "Akan" ,
+    "name": "Akwasi/Akwesi",
+    "gender": "Male"
+},
+{
+    "day":  "Sunday",
+    "tribe": "Akan" ,
+    "name": "Kwasi/Kwesi",
+    "gender": "Male"
+},
+{
+    "day":  "Sunday",
+    "tribe": "Ewe" ,
+    "name": "Koshi/Kosi",
+    "gender": "Male"
+},
+{
+    "day":  "Sunday",
+    "tribe": "Ewe" ,
+    "name": "Kacely",
+    "gender": "Male"
+},
+{
+    "day":  "Sunday",
+    "tribe": "Akan" ,
+    "name": "Sisi",
+    "gender": "Male"
+},
+{"_comment" :"Female Sunday names"},
+{
+    "day":  "Sunday",
+    "tribe": "Akan" ,
+    "name": "Akosua",
+    "gender": "Female"
+},
+{
+    "day":  "Sunday",
+    "tribe": "Akan" ,
+    "name": "Akos",
+    "gender": "Female"
+},
+{
+    "day":  "Sunday",
+    "tribe": "Akan" ,
+    "name": "Esi",
+    "gender": "Female"
+},
+{
+    "day":  "Sunday",
+    "tribe": "Akan" ,
+    "name": "Awesi/Awisi",
+    "gender": "Female"
+},
+{
+    "day":  "Sunday",
+    "tribe": "Ewe" ,
+    "name": "Koshiwa/Kosiwa",
+    "gender": "Female"
+},
+{
+    "day":  "Sunday",
+    "tribe": "Ewe" ,
+    "name": "Akasi",
+    "gender": "Female"
+},
+{
+    "day":  "Sunday",
+    "tribe": "Akan" ,
+    "name": "Kwasiwa",
+    "gender": "Female"
+}
+]
