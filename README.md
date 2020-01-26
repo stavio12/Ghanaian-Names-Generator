@@ -1,5 +1,4 @@
 # Ghanaian-Names-Generator
-# 80% complete
 Ghanaian Names Generator
 
 Learning Javascript-Ajax-async-fetch api 
@@ -8,4 +7,7 @@ Which they end up liking and want to be called whiles here.
 
 So you get to generate a maximum of 20 names from two major Tribes here in Ghana which are the AKANS and EWES.
 
- https://stavio12.github.io/Ghanaian-Names-Generator/.
+# https://stavio12.github.io/Ghanaian-Names-Generator/.
+
+![image](https://user-images.githubusercontent.com/49410124/73130390-55862180-3fac-11ea-9308-b8a3b8c24030.png)
+
